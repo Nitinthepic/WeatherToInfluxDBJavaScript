@@ -14,6 +14,6 @@ module.exports = {
   token,
   org,
   bucket,
-  username,
-  password,
+  region,
+  weather_API_URL,
 }
